@@ -38,7 +38,7 @@ require (
 	golang.org/x/crypto v0.10.0
 	golang.org/x/image v0.7.0
 	golang.org/x/net v0.11.0
-	golang.org/x/oauth2 v0.4.0
+	golang.org/x/oauth2 v0.9.0
 	gorm.io/driver/mysql v1.4.7
 	gorm.io/driver/postgres v1.4.8
 	gorm.io/driver/sqlite v1.4.4
